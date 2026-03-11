@@ -34,3 +34,5 @@ O Pull Request é usado para revisar alterações antes de juntá-las com o proj
 
 ## Realização de Merge
 O Merge é quando as alterações de uma branch são unidas com a branch principal.
+
+Alteração feita na branch nova-funcao para teste de Pull Request
